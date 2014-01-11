@@ -1,0 +1,4 @@
+SoftKeyboard	KEYWORD1
+press	KEYWORD2
+release	KEYWORD2
+tap	KEYWORD2

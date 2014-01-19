@@ -1,4 +1,4 @@
-soft-keyboard
+SoftKeyboard
 =============
 
 Software _only_ keyboard emulator for Arduino.

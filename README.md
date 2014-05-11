@@ -12,5 +12,13 @@ Usage:
   * unpack the .zip you've downloaded, and copy everything from the .zip's root folder (_soft-keyboard-master_ by default) directory to _Arduino\libraries\SoftKeyboard_
 * Restart the Arduino IDE
 * Open the SoftKeyboard example sketch and upload it to the Arduino
-* Run the provided SoftKeyboard.exe on your PC, giving the Arduino serial port as an argument
+* Run the provided `SoftKeyboard.exe` on your PC, giving the Arduino serial port as an argument
 * Open notepad, and you should be getting "hi!" string typed every 2 seconds
+
+
+Contents:<br>
+`SoftKeyboard.h`, `SoftKeyboard.cpp` - the sources of the Arduino library<br>
+`keywords.txt` - syntax highlight for the Arduino IDE<br>
+`SoftKeyboard.exe` - the "server" keyboard you run on the PC<br>
+`Program.cs` - the C# source code for `SoftKeyboard.exe`<br>
+`examples` - folder with examples of usage (Arduino)
